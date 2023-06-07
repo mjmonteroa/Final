@@ -1,10 +1,9 @@
-### Diseño y Nuevos Medios → Clase 14 → 07/06/2023
+## PROPUESTA FINAL SITIO WEB
 
-# Propuesta y desarrollo
-
-¿Para qué es esta propuesta?
+### ¿Para qué es esta propuesta?
 Failitar la búsqueda de profesional especializado en diseño.
-¿Para quiénes es esta propuesta?
+
+### ¿Para quiénes es esta propuesta?
 
 | Nombre  | Edad  | Trabajo | Personalidad | Qué necesita | Motivaciones | Frustraciones |
 |---------|:-----:|:-------:|:------------:| :-----------:| :-----------:| -------------:|
