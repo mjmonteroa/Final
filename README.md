@@ -46,9 +46,18 @@ Una selección de sitios web de inspiración para mi portafolio:
 
 -------
 ### Referentes
-Una selección de estilos gráficos de inspiración para mi portafolio:
+Una selección de estilos minimalistas:
 
-#### Moodboard
+#### Moodboard 1
+![695e5b9bd52fd468989a4d18f7386d45](https://github.com/mjmonteroa/Final/assets/127959143/83ebee1e-cbd7-4765-9660-5012187631b9)
+
+#### Moodboard 2
+![2ee116c5c06cc8b5a6dc92e2d0250a9f](https://github.com/mjmonteroa/Final/assets/127959143/ed85086f-d7b2-4fbd-a35d-cafb18181bbc)
+
+
+
+
+
 
 
 
