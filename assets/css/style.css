@@ -449,7 +449,8 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("../img/home-bg.jpg") repeat scroll center center/cover;
+  background: url("../img/home-bg.jpg?blur=3") repeat scroll center center/cover;
+    blur=3; 
   height: 100vh;
   width: 100%;
 }
