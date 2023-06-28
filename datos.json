@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "name": "Section 1",
+      "name": "Banco Republicano",
       "id": "portfolio-details",
       "class": "portfolio-details",
       "div": {
@@ -83,7 +83,7 @@
     },
     // Agregar otras 5 secciones similares aquí
     {
-      "name": "Section 2",
+      "name": "Colección Free",
       "id": "portfolio-details",
       "class": "portfolio-details",
       "div": {
@@ -163,5 +163,165 @@
         }
       }
     }
+    {
+      "name": "Colección Upcycling",
+      "id": "portfolio-details",
+      "class": "portfolio-details",
+      "div": {
+        "class": "container",
+        "row": {
+          "class": "gy-4",
+          "col-lg-8": {
+            "div": {
+              "class": "portfolio-details-slider swiper",
+              "div": {
+                "class": "swiper-wrapper align-items-center",
+                "div": [
+                  {
+                    "class": "swiper-slide",
+                    "img": {
+                      "src": "assets/img/portfolio/portfolio-details-1.jpg",
+                      "alt": ""
+                    }
+                  },
+                  {
+                    "class": "swiper-slide",
+                    "img": {
+                      "src": "assets/img/portfolio/portfolio-details-2.jpg",
+                      "alt": ""
+                    }
+                  },
+                  {
+                    "class": "swiper-slide",
+                    "img": {
+                      "src": "assets/img/portfolio/portfolio-details-3.jpg",
+                      "alt": ""
+                    }
+                  }
+                ]
+              },
+              "div": {
+                "class": "swiper-pagination"
+              }
+            }
+          },
+          "col-lg-4": {
+            "div": {
+              "class": "portfolio-info",
+              "h3": "Project information",
+              "ul": {
+                "li": [
+                  {
+                    "strong": "Category",
+                    "value": "Web design"
+                  },
+                  {
+                    "strong": "Client",
+                    "value": "ASU Company"
+                  },
+                  {
+                    "strong": "Project date",
+                    "value": "01 March, 2020"
+                  },
+                  {
+                    "strong": "Project URL",
+                    "value": {
+                      "a": {
+                        "href": "#",
+                        "text": "www.example.com"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "div": {
+              "class": "portfolio-description",
+              "h2": "This is an example of portfolio detail",
+              "p": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim."
+            }
+          }
+        }
+      }
+       {
+      "name": "Matrimonio Jose y Nati",
+      "id": "portfolio-details",
+      "class": "portfolio-details",
+      "div": {
+        "class": "container",
+        "row": {
+          "class": "gy-4",
+          "col-lg-8": {
+            "div": {
+              "class": "portfolio-details-slider swiper",
+              "div": {
+                "class": "swiper-wrapper align-items-center",
+                "div": [
+                  {
+                    "class": "swiper-slide",
+                    "img": {
+                      "src": "assets/img/portfolio/portfolio-details-1.jpg",
+                      "alt": ""
+                    }
+                  },
+                  {
+                    "class": "swiper-slide",
+                    "img": {
+                      "src": "assets/img/portfolio/portfolio-details-2.jpg",
+                      "alt": ""
+                    }
+                  },
+                  {
+                    "class": "swiper-slide",
+                    "img": {
+                      "src": "assets/img/portfolio/portfolio-details-3.jpg",
+                      "alt": ""
+                    }
+                  }
+                ]
+              },
+              "div": {
+                "class": "swiper-pagination"
+              }
+            }
+          },
+          "col-lg-4": {
+            "div": {
+              "class": "portfolio-info",
+              "h3": "Project information",
+              "ul": {
+                "li": [
+                  {
+                    "strong": "Category",
+                    "value": "Web design"
+                  },
+                  {
+                    "strong": "Client",
+                    "value": "ASU Company"
+                  },
+                  {
+                    "strong": "Project date",
+                    "value": "01 March, 2020"
+                  },
+                  {
+                    "strong": "Project URL",
+                    "value": {
+                      "a": {
+                        "href": "#",
+                        "text": "www.example.com"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "div": {
+              "class": "portfolio-description",
+              "h2": "This is an example of portfolio detail",
+              "p": "Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim."
+            }
+          }
+        }
+      }
   ]
 }
